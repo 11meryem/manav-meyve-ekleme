@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.8\button.8\button.8\bin\Debug\button.8.exe.config
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.8\button.8\button.8\bin\Debug\button.8.exe
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.8\button.8\button.8\bin\Debug\button.8.pdb
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.8\button.8\button.8\obj\Debug\button.8.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.8\button.8\button.8\obj\Debug\button.8.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.8\button.8\button.8\obj\Debug\button._8.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.8\button.8\button.8\obj\Debug\button._8.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.8\button.8\button.8\obj\Debug\button.8.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.8\button.8\button.8\obj\Debug\button.8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.8\button.8\button.8\obj\Debug\button.8.exe
+C:\Users\User\Desktop\KORUMASIZ\meryem794\button.1\button.8\button.8\button.8\obj\Debug\button.8.pdb
